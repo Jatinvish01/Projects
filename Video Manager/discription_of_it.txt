@@ -1,0 +1,22 @@
+This Python program is a simple YouTube Video Manager that allows users to store, view, update, and delete video details (name and duration) using a text file (youtube.txt) in JSON format. Here's a short description:
+
+🔹 YouTube Video Manager (Console App)
+Purpose: Manage a list of YouTube videos (name & time) using file storage.
+
+Features:
+
+📃 List all videos
+
+➕ Add a new video
+
+✏️ Update video details
+
+❌ Delete a video
+
+💾 Uses a JSON file (youtube.txt) for storing data persistently.
+
+Error Handling: Gracefully handles missing file scenarios.
+
+Design: Menu-driven interface using a while loop and match-case.
+
+It's a beginner-friendly project that teaches file handling, JSON, functions, loops, conditionals, and basic CRUD operations in Python.

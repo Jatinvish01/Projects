@@ -1,5 +1,5 @@
 📈 Banking Dataset EDA with Python
-This project performs an Exploratory Data Analysis (EDA) on a banking dataset using Python’s powerful data science libraries like numpy,pandas, matplotlib, seaborn.
+This project performs an Exploratory Data Analysis (EDA) on a banking dataset using Python’s powerful data science libraries like numpy,pandas, matplotlib, and seaborn.
 
 🔍 Main Objectives:
 - Load and explore the dataset
